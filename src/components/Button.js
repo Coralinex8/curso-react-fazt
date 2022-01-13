@@ -5,6 +5,6 @@ export function Button(){
         
   <button className='btn btn-dark'>
   😀
-</button>
+  </button>
     )
 }
